@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shailendra Singh, Software developer at FinTech company in chennai, India
+- 👋 Hi, I’m Shailendra Singh, Sr. Software developer at Lowe's India Pvt. Ltd. Bengaluru.
+- I currently a fullStack developer with ReactJs and Python as core stack.
 - 👀 I’m interested in Machine learning and backend technologies, have experice in Python language, Django, Flask, Sql, Object oriented database, git, bitbucket, HTML
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on any new technologies.
